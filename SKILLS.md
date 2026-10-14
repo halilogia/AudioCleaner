@@ -1,6 +1,6 @@
-# 📜 AudioCleaner Ajan Anayasası (AGENTS.md)
+# 🛠️ AudioCleaner Proje Becerisi & Kuralları (SKILLS.md)
 
-Bu belge, AudioCleaner projesinde çalışan tüm yapay zeka ajanlarının (Antigravity, Claude Code, Codex) uymak zorunda olduğu mutlak kuralları tanımlar.
+Bu belge, AudioCleaner projesinde çalışan tüm yapay zeka ajanlarının (Antigravity, Claude Code, Codex) uymak zorunda olduğu mutlak kuralları ve beceri sınırlarını tanımlar.
 
 ---
 

@@ -36,5 +36,5 @@ python clean_audio.py "roportaj.wav" --dry-run
 | [CHANGELOG.md](CHANGELOG.md) | SemVer sürüm geçmişi ve değişiklikler |
 | [KNOWLEDGE.md](KNOWLEDGE.md) | Akustik gotchas, click-pop önleme ve Türkçe fonetik kuralları |
 | [TASKS.md](TASKS.md) | Aktif görev takibi ve backlog |
-| [AGENTS.md](AGENTS.md) | Ajan anayasası, dokunulmaz sınırlar ve çalışma kuralları |
+| [SKILLS.md](SKILLS.md) | Proje çalışma kuralları, dokunulmaz sınırlar ve DoD |
 | [LICENSE](LICENSE) | GNU General Public License v3.0 |
